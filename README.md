@@ -5,7 +5,7 @@ This repository contains Stata code for cleaning and preparing the 2021 Bolivian
 ## Data Source
 
 The original survey data can be downloaded from the official INE Bolivia data portal:  
-🔗 [https://anda.ine.gob.bo/index.php/catalog/149](https://anda.ine.gob.bo/index.php/catalog/149)
+🔗 [https://anda.ine.gob.bo/index.php/catalog/ENCUESTAS](https://anda.ine.gob.bo/index.php/catalog/ENCUESTAS)
 
 ## License
 
